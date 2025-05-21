@@ -1,1 +1,1 @@
-# TradeCanvas
+# QuantSnap
