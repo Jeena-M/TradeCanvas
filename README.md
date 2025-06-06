@@ -1,1 +1,1 @@
-# QuantSnap
+# MetaTrends
